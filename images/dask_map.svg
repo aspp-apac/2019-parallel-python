@@ -73,7 +73,7 @@
          text-anchor="middle"
          fill="#000000"
          y="15"
-         x="12">add</text>
+         x="12">func</text>
     </switch>
   </g>
   <path
@@ -180,7 +180,7 @@
          text-anchor="middle"
          fill="#000000"
          y="15"
-         x="12">add</text>
+         x="12">func</text>
     </switch>
   </g>
   <path
